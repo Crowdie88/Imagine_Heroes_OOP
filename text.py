@@ -13,7 +13,8 @@ def clear():
 
 def introduction():
     print("")
-    print(Fore.YELLOW + "Imagine" + Style.BRIGHT + Fore.GREEN + " Heroes", "who embark on the greatest adventures of their lives in a world full of danger.")
+    print(Fore.YELLOW + "Imagine" + Style.BRIGHT + Fore.GREEN + " Heroes", "who embark on the greatest adventures of their lives in...")
+    print("a world full of danger.")
     print("A world full of magical objects.")
     print("A world full of monsters.")
     print("The survival of these heroes decides the fate of thousands.")
