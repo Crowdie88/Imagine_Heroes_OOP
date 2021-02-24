@@ -5,10 +5,10 @@
  
 
 Instruction:
-             - Download Python(https://www.python.org/downloads/)
-             - Install Python
-             - Go in the directory **Imagine_Heroes_OOP-main**
-             - Click on start.py
+- Download Python(https://www.python.org/downloads/)
+- Install Python
+- Go in the directory **Imagine_Heroes_OOP-main**
+- Click on start.py
  
 
 This Game is Based on CMD. It's a Text-Based-RPG.
