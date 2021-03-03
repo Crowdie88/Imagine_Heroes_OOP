@@ -7,6 +7,8 @@
 Instruction:
 - Download Python(https://www.python.org/downloads/)
 - Install Python
+- Install pip
+- install with pip audioplayer
 - Go in the directory **Imagine_Heroes_OOP-main**
 - Click on start.py
  
